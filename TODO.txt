@@ -1,0 +1,46 @@
+Fixes:
+* Hollow Platforms now working on build - Fixed
+* Might only want to be able to walljump once - Not needed
+* Wrong bullet direction
+* Player gets thrown away from the monster not alowing you to shit it (since you are in the wrong direction)
+
+TODO:
+* Monster do damage
+* Killing a monster adds a point top top text
+* Saving stats
+* Dying correctly
+* Exit on escape
+* Death animation
+* Pit fire
+* Fire effect for raging monsters
+* Change so facing direction updates on all keys (implement functionality correctly)
+* Controller support
+
+* Main menu (start and restart)
+* Dying cycle
+* Restart
+
+* Pickup system
+* Weapon usage
+* Monster health
+More weapons (*Shotgun, *Bazooka, *pistol, rifle, *revolver, mines)
+
+
+* Spawnrates / Difficulty
+* Mobile/Touch Input - Trashed
+
+* Visual representation of the current weapons
+Player light fades on death
+Information view / Visual introduction to the controls
+
+Extras:
+Weapon Sounds
+More Animations
+
+Mines?
+Pickup Text Effect?
+
+
+Upload to github, itch.io and ludumdare.
+
+To know:
