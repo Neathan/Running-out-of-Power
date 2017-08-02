@@ -1,4 +1,4 @@
-OSXStandalone
+WebGL
 7dd52f6ef45adb0f47a3c075a9fddb1b Assembly-CSharp.dll:.SingleFireWeapon
 8cb6285dc5981165a4db70da844dba8d Assembly-CSharp.dll:.AddToParticleList
 f8ac1aa3787737df9e08803ee6d05c9b Assembly-CSharp.dll:.PickupSpawner
