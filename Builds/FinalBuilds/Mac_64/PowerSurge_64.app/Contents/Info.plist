@@ -10,7 +10,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>PowerSurge</string>
+	<string>PowerSurge_64</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Unity Player version 2017.1.0f3 (472613c02cf7). (c) 2017 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>
